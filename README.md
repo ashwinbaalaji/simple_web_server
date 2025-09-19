@@ -61,8 +61,11 @@ Testing the webserver.
 </html>
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-09-19 171544.png>)
-![alt text](<../Screenshot 2025-09-19 172100.png>)
+
+![alt text](output.png)
+![alt text](py.png)
+# RESULT:
+The program for implementing simple webserver is executed successfully.
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.
