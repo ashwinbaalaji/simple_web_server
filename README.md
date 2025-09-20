@@ -26,10 +26,10 @@ Testing the webserver.
 <head>
 <title>TCP/IP Model</title>
 </head>
-<body align="center">
+<body align="center" bgcolor="lightblue">
 
 <pre>
-1. *Application Layer*
+<h1>1. *Application Layer*</h1>
 
    * HTTP (HyperText Transfer Protocol)
    * FTP (File Transfer Protocol)
@@ -37,18 +37,18 @@ Testing the webserver.
    * DNS (Domain Name System)
    * Telnet
 
-2. *Transport Layer*
+<h1>2. *Transport Layer*</h1>
 
    * TCP (Transmission Control Protocol)
    * UDP (User Datagram Protocol)
 
-3. *Internet Layer*
+<h1>3. *Internet Layer*</h1>
 
    * IP (Internet Protocol)
    * ICMP (Internet Control Message Protocol)
    * ARP (Address Resolution Protocol)
 
-4. *Network Access Layer (Link Layer)*
+<h1>4. *Network Access Layer (Link Layer)*</h1>
 
    * Ethernet
    * Wi-Fi
@@ -61,9 +61,11 @@ Testing the webserver.
 </html>
 ```
 # OUTPUT:
+![alt text](<Screenshot 2025-09-20 111703.png>)
 
-![alt text](output.png)
-![alt text](py.png)
+![alt text](<Screenshot 2025-09-20 111841.png>)
+
+
 # RESULT:
 The program for implementing simple webserver is executed successfully.
 
