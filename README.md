@@ -65,6 +65,8 @@ Testing the webserver.
 ![alt text](<Screenshot 2025-09-22 103414.png>)
 ![alt text](<Screenshot 2025-09-22 103437.png>)
 ![alt text](<Screenshot 2025-09-22 103445.png>)
+<img width="1581" height="261" alt="Screenshot 2025-09-22 112250" src="https://github.com/user-attachments/assets/988643f8-c05e-4c61-b10c-4fd9ceb7b3bf" />
+
 # RESULT:
 The program for implementing simple webserver is executed successfully.
 
