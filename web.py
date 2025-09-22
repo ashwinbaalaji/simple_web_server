@@ -4,7 +4,7 @@ content = '''<html>
 <head>
 <title>TCP/IP Model</title>
 </head>
-<body align="center" bgcolor="blue">
+<body align="center" bgcolor="lightgray">
 
 <pre>
 <h1>1. *Application Layer*</h1>

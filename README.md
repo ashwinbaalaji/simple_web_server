@@ -26,7 +26,7 @@ Testing the webserver.
 <head>
 <title>TCP/IP Model</title>
 </head>
-<body align="center" bgcolor="lightblue">
+<body align="center" bgcolor="lightgray">
 
 <pre>
 <h1>1. *Application Layer*</h1>
@@ -61,11 +61,10 @@ Testing the webserver.
 </html>
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-09-20 111703.png>)
-
-![alt text](<Screenshot 2025-09-20 111841.png>)
-
-
+![alt text](<Screenshot 2025-09-22 103319.png>)
+![alt text](<Screenshot 2025-09-22 103414.png>)
+![alt text](<Screenshot 2025-09-22 103437.png>)
+![alt text](<Screenshot 2025-09-22 103445.png>)
 # RESULT:
 The program for implementing simple webserver is executed successfully.
 
